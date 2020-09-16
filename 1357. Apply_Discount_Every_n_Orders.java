@@ -28,7 +28,7 @@ class Cashier {
 
         return checkout;
     }
-}
+} // memory use: 61.6 MB (82.53%), runtime: 116 ms (65.06%)
 
 /**
  * Your Cashier object will be instantiated and called as such:

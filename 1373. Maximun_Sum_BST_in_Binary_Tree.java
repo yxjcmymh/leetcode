@@ -35,4 +35,4 @@ class Solution { // have been struggle with the min & max of this problem
 
         return new int[] {Math.min(root.val, left[0]), Math.max(root.val, right[1]), sum};
     }
-}// memory use: 52.8 MB (64.16%), runtime: 6 ms (82.68%)
+} // memory use: 52.8 MB (64.16%), runtime: 6 ms (82.68%)
